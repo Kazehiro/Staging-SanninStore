@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b37bdad0f16bb094766cb3a9f807420a",
+  "assets/AssetManifest.json": "02f5d60679c9f136004f2108fd53861d",
 "assets/assets/fonts/Montserrat-Bold.ttf": "1f023b349af1d79a72740f4cc881a310",
 "assets/assets/fonts/Montserrat-ExtraBold.ttf": "bd8fb30c6473177cfb9a5544c9ad8fdb",
 "assets/assets/fonts/Montserrat-Regular.ttf": "3fe868a1a9930b59d94d2c1d79461e3c",
@@ -34,7 +34,6 @@ const RESOURCES = {
 "assets/assets/images/lifeafter.png": "1b7535ef905633176ed088df6a41d435",
 "assets/assets/images/mandiri.png": "c14259eb75c4bfb13197ea71251a70f2",
 "assets/assets/images/marvel_super_war.jpg": "c8ae4052bdb9fb10af4f3719d6a84904",
-"assets/assets/images/maybank.png.crdownload": "22405288bf14bd2f3c60ca6b92a16c2e",
 "assets/assets/images/ml.png": "5b27a9313e89310e5c88c2f5dc2b465d",
 "assets/assets/images/never_after.png": "d5e3923b621a8e8b5b9d4035c51f0f81",
 "assets/assets/images/ocbc.png": "34563f7083cfc49bdd38c481f316815c",
@@ -82,9 +81,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f7f9efe9f68a50cda39989051a165125",
-"/": "f7f9efe9f68a50cda39989051a165125",
-"main.dart.js": "a6f64dd6f646ac054812408a015eb18a",
+"index.html": "ac425184f0a1f29ae1d21af9d465518b",
+"/": "ac425184f0a1f29ae1d21af9d465518b",
+"main.dart.js": "12170f56f2191e8e27757551e503c13d",
 "manifest.json": "21e3e9d53e66b8ded86e2d93344302b8",
 "version.json": "231d60c43e42f7d544e683d24e61e62b"
 };
